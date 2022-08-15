@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Wan Kar Hou
 - 👀 I’m interested in learning different programming language, involved myself with different projects, contribute to the world of technology.
-- 🌱 I’m currently learning data science.
+- 🌱 I’m currently learning AWS, GCP, Huawei Cloud.
 - 📫 wankarhou18@gmail.com
 
 <!---
